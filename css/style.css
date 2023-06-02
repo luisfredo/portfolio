@@ -264,6 +264,10 @@ header h2 {
     }
 }
 /*Projects*/
+
+.projects {
+    margin-bottom: 5rem;
+}
 .project {
     display: flex;
     justify-content: space-between;
